@@ -1,4 +1,2 @@
-
-fhfhfgjgj
-jlkjljkl
-
+I am changing it after I used git add
+hello
